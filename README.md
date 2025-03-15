@@ -63,5 +63,5 @@ If you have suggestions or improvements, feel free to fork the repository and su
 This project is for educational purposes and is open for learning and analysis.
 
 ---
-**Author:** Sanjeev Yadav  
+**Author:** **Sanjeev Yadav**  
 📧 Contact: sanjeevyadav4696@gmail.com
