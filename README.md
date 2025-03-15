@@ -48,7 +48,7 @@ Here are some previews of the raw and final data:
 ### **Insights & Visualization**
 All findings are consolidated in the **Insights** sheet, containing relevant charts and calculations.
 
-### Insights of Sample
+### Sample of Insights
 ![Insights Sample](Screenshots/insights.png)
 
 ## 🚀 How to Use This Report
